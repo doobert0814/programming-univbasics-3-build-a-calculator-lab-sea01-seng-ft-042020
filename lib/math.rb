@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  p (num1 + num2)
+  puts 
 end
 
 addition("num1" + "num2")
